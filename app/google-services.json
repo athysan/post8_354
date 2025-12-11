@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "610705661594",
+    "firebase_url": "https://post8-e04d8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "post8-e04d8",
+    "storage_bucket": "post8-e04d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610705661594:android:703b1921010ebf57d54923",
+        "android_client_info": {
+          "package_name": "com.athaya.post_8_354"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA59UWGtjc1ahqjprIlly4fMInMY7mHZZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
